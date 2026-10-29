@@ -2,4 +2,7 @@ import BealPrizeProof.Main
 import BealPrizeProof.Diagonal
 import BealPrizeProof.Reduction
 import BealPrizeProof.Signatures
+import BealPrizeProof.RightTriangle
+import BealPrizeProof.SixSixTwo
+import BealPrizeProof.Pairwise
 import BealPrizeProof.Audit
