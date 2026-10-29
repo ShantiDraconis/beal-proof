@@ -1,0 +1,16 @@
+name = "BealPrizeProof"
+version = "0.1.0"
+defaultTargets = ["BealPrizeProof"]
+
+[leanOptions]
+autoImplicit = false
+
+# O enunciado vem fixado por commit: a prova nunca pode trocar o problema.
+# O nome tem que ser o `name` do lakefile do repositório do enunciado.
+[[require]]
+name = "BealPrize"
+git = "https://github.com/ShantiDraconis/beal-statement.git"
+rev = "6fb96146f45db9fb0ad5f8221127ea6590b552e3"
+
+[[lean_lib]]
+name = "BealPrizeProof"
