@@ -1,5 +1,7 @@
 # Conjectura de Beal — prova (Lean 4 / Mathlib)
 
+Autor: Tiago Paschoalatto Fagliari — ORCID [0009-0006-6874-3910](https://orcid.org/0009-0006-6874-3910)
+
 Depende do enunciado em [`ShantiDraconis/beal-statement`](https://github.com/ShantiDraconis/beal-statement),
 fixado no commit `6fb9614`. O alvo é `BealPrize.Statement`, sem redefinição.
 
